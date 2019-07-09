@@ -38,3 +38,9 @@ ul li.active a{
     max-width: 1400px;
     color: brown;
 }
+.title{
+    position: relative;
+    top: 60%;
+    left: 60%;
+    transform: translate(-60%.60%);
+}
