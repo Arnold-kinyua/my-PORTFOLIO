@@ -34,3 +34,7 @@ ul li.active a{
     background-color: aqua;
     color: black;
 }
+.main{
+    max-width: 1400px;
+    color: brown;
+}
