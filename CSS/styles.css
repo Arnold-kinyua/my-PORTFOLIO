@@ -3,6 +3,14 @@ padding: 0;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+.about{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../northernlights.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: inherit;
+    height: 20vh;
+}
+
 header{
     background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../northernlights.jpg);
     background-size: cover;
