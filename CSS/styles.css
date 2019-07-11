@@ -44,3 +44,16 @@ ul li.active a{
     left: 60%;
     transform: translate(-60%.60%);
 }
+.title h1{
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 74px;
+}
+.content{
+    width: 75%;
+    margin: 125px auto;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.75cm;
+    background: white;
+    padding: 50px;
+}
