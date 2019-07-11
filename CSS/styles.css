@@ -57,3 +57,11 @@ ul li.active a{
     background: white;
     padding: 50px;
 }
+.picture{
+    float: right;
+}
+.projects{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5), url(../northernlights.jpg);
+    background-size: cover;
+    background-attachment: inherit;
+}
